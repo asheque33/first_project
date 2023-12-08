@@ -1,0 +1,3 @@
+typescript installation through yarn command -> yarn add typescript --dev
+QGHJoRlBu5vcUm3W mdb pass
+D:\PH_Practice_L2\first_project\package.json
