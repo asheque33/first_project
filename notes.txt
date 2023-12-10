@@ -1,3 +1,10 @@
 typescript installation through yarn command -> yarn add typescript --dev
 QGHJoRlBu5vcUm3W mdb pass
 D:\PH_Practice_L2\first_project\package.json
+//mongodb_url
+mongodb+srv://admin_um:6z6OiIAODGp1tR0N@cluster0.2fttge7.mongodb.net/first_project?retryWrites=true&w=majority
+
+//to create data 
+interface->Schema->Model->DB Qurery
+//Remember: Always route call to the controller
+route<=>controller<=>service 
